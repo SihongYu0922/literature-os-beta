@@ -1,0 +1,2 @@
+e01f4e3a7a789fb642e8414cc9d0ac401baf5d9e5b2f55e76236267bd3bd65df  LiteratureOS-v6.2-t-Portable-Web-Desktop.zip
+659be07c45ca12e557be9c6a2c7331ab50d3be750c2fab45c0236b0ac1987ae6  LiteratureOS-v6.2-t-Windows-x64.msi

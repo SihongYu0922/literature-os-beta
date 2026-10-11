@@ -1,0 +1,9 @@
+# Public release repository: reviewed documents and one selected banner only.
+/*
+!/.gitignore
+!/README.md
+!/RELEASE-NOTES.md
+!/SHA256SUMS.txt
+!/media/
+/media/*
+!/media/literature-os-beta-banner.png
