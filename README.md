@@ -45,4 +45,4 @@ Get-FileHash -Algorithm SHA256 -LiteralPath .\LiteratureOS-v6.3-t-Windows-x64.ms
 
 有 Bug 或优化建议，请在看到宣传推文的平台反馈，或发送邮件至 [alvinyu0922@gmail.com](mailto:alvinyu0922@gmail.com)。请注明软件版本、Windows 版本、操作步骤，可附脱敏截图；不要发送私人 PDF、完整文献库、数据库、日志或 API Key。
 
-本 GitHub 仓库作为公开下载渠道，不接受 Issues、Pull Request、Wiki 或提交评论。普通访客没有写入权限，不能上传、修改文件或替换 Release 安装包。
+（本 GitHub 仓库仅作为公开下载渠道）
